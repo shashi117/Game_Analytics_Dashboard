@@ -5,21 +5,11 @@ This repository contains a concise data insights report compiled from visual ana
 ## 📁 Contents
 
 - Source Images (PNG) - Charts and visuals used in the report:
-- ![image](https://github.com/user-attachments/assets/6c3890ec-5a42-4de9-8cdc-baa22f1d9662)
-- ![image](https://github.com/user-attachments/assets/9f751eb4-fbbb-4473-a1f7-fcdc6f9aeb0d)
-- ![image](https://github.com/user-attachments/assets/9c67fbed-525f-45d3-94f5-15b28a9d7ead)
-- ![image](https://github.com/user-attachments/assets/b3e331d4-83ac-4dee-8da3-c8b24e56c09a)
-- ![image](https://github.com/user-attachments/assets/f20883ec-4bfe-4383-b695-53d0e51df3c9)
-
-
-
-
-
-  - `bar_chart_user_activity.png`
-  - `user_growth_trend.png`
-  - `heatmap_time_activity.png`
-  - `pie_chart_device_usage.png`
-  - `line_chart_session_duration.png`
+- `Key Performance Metrics and Revenue Analysis` ![image](https://github.com/user-attachments/assets/6c3890ec-5a42-4de9-8cdc-baa22f1d9662)
+-  ` User Behavior Analysis and Advanced Analytics`![image](https://github.com/user-attachments/assets/9f751eb4-fbbb-4473-a1f7-fcdc6f9aeb0d)
+- `High-Value Users and Churn Risk Analysis` ![image](https://github.com/user-attachments/assets/9c67fbed-525f-45d3-94f5-15b28a9d7ead)
+- `Cohort Analysis` ![image](https://github.com/user-attachments/assets/b3e331d4-83ac-4dee-8da3-c8b24e56c09a)
+- `Key Insights & Recommendations` ![image](https://github.com/user-attachments/assets/f20883ec-4bfe-4383-b695-53d0e51df3c9)
 
 ## 📌 Key Highlights
 
